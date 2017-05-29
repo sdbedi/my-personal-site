@@ -155,8 +155,8 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Contact"
-  url = "#contact"
+  name = "How to Find Me"
+  url = "#findme"
   weight = 4
 
 # Taxonomies.
