@@ -16,10 +16,20 @@ weight = 20
 
 This is an example of using the *custom* widget to create your own homepage section.
 
+Skills:
+
+Fullstack Web Development -
+
+Software Architecture - 
+
+Agile Project Management - 
+
+Technologies:
+
 I am a teaching instructor for the following courses at University X:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
+- ES6
+- ES7
 - CS103: An intro to computer science
 - CS104: An intro to computer science
 - CS105: An intro to computer science

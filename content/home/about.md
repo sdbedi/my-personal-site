@@ -33,4 +33,10 @@ weight = 1
 
 # Biography
 
-I like building web applications. In particular, I have a passion for anything web or Javascript related. I've worked across the stack, with a variety of frameworks, and I'm always discovering new technologies. But more than any flavor of the week, I'm interested in finding the right tools for the job. I'm currently looking for an opportunity where I can build some cool stuff.
+I like building web applications. In particular, I have a passion for anything web or Javascript related. I've worked across the stack, with a variety of frameworks, and I'm always discovering new technologies. But more than any flavor of the week, I'm interested in finding the right tools for the job. 
+
+In addition to this technical skillset, I know how to gather user requirements, and build applications accordingly. I'm experienced with agile software development, and with developing applications in a team environment.  
+
+I've created several nifty applications; their links are on this site. I'm currently looking for an opportunity where I can build some cool stuff.
+
+Check out my blog: https://medium.com/@sheelbedi
