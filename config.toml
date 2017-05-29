@@ -151,7 +151,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Selected Applications"
-  url = "#posts"
+  url = "#applications"
   weight = 3
 
 [[menu.main]]
