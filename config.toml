@@ -1,6 +1,6 @@
 baseurl = "https://example.com"
-title = "Academic"
-copyright = "&copy; 2016 Your Name"
+title = "Sheel Bedi"
+copyright = "&copy; 2016 Sheel Bedi"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -19,17 +19,18 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Sheel Bedi"
+  role = "Web Developer | Full Stack Javascript Enthusiast"
+  organization = "Austin, Texas"
   organization_url = ""
-  avatar = "portrait.jpg"
-  email = "test@example.org"
+  avatar = ""
+  email = ""
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
   skype = "echo123"
   telegram = ""
+  github = "github.com/sdbedi"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -123,11 +124,6 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/GeorgeCushen"
@@ -154,29 +150,19 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Skillsets"
+  url = "#skillset"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Selected Applications"
   url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 4
 
 # Taxonomies.
 [taxonomies]

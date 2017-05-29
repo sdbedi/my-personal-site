@@ -12,31 +12,25 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Web Development",
+    "Javascript",
+    "Virtual Reality",
+    "Internet of Things"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Advanced Software Engineering Immersive"
+  institution = "Hack Reactor (formerly Makersqaure)"
+  year = ""
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachelor of Arts, English"
+  institution = "University of Texas"
+  year = ""
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I like building web applications. In particular, I have a passion for anything web or Javascript related. I've worked across the stack, with a variety of frameworks, and I'm always discovering new technologies. But more than any flavor of the week, I'm interested in finding the right tools for the job. I'm currently looking for an opportunity where I can build some cool stuff.
