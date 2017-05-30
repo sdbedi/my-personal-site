@@ -14,15 +14,20 @@ weight = 30
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
 Here are some of the things I've built and deployed so far:
 
-- Pulser:
-	An augmented presentation Built with Knex/Postgres, Express, React/Redux, Node, and Sockets.io
-- Food Runner 2: 
-- On Foot: 
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- [Pulser](pulser-beta.herokuapp.com):
+	Presentation apps still adhere to a paradigm of one-way communication. This leads to boredom, audience disengagement, and death by Powerpoint. 
+
+	Pulser is different. By providing for two way communication and real time audience feedback, Pulser allows a presenter to invite audience participation. This facilitates communications, and allows a presenter to understand her audience.
+
+	Built with Knex/Postgres, Express, React/Redux, Node, and Sockets.io
+- [Food Runner](food-runner2.herokuapp.com:): 
+	A crowdsourced, task-sharing app with a built in 'karma' system.
+
+	Built with Mongo, Express, React, and Node.
+- [On Foot](onf00t.herokuapp.com:):: 
+	A geolocation app that shows you only the cheapest, highest rated restaurants within walking distance.
+
+	Built with HTML5, React, Express, and Node.
+
