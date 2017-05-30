@@ -14,24 +14,35 @@ weight = 20
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
 Skills:
 
-Fullstack Web Development -
+Fullstack Web Development - Experience with Fronted/Backend Frameworks, UI, Server, and Database technologies.
 
-Software Architecture - 
+Software Architecture - Skilled in gathering user requirements, and planning all aspects of a web application.
 
-Agile Project Management - 
+Agile Project Management - Versed in Agile workflow, and guiding projects to success.
 
 Technologies:
 
-I am a teaching instructor for the following courses at University X:
+- HTML/CSS/JQuery
+- Javascript
+- ES6/ES7
+- React
+- Node
+- Express
+- React
+- Angular
+- MonogoDB
+- Redux
+- MochaJS
+- Sockets.io
 
-- ES6
-- ES7
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- Docker
+- Amazon Web Services
+- Heroku
+
+- Test Driven Development
+- Deployment
+- Continuous Delivery/Continous Integration
+
+Other:
