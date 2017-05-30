@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://example.com/tags/academic/</loc>
+      <loc>http://www.sheelbedi.com/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://example.com/talk/example-talk/</loc>
+      <loc>http://www.sheelbedi.com/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>https://example.com/talk/</loc>
+      <loc>http://www.sheelbedi.com/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://example.com/categories/</loc>
+      <loc>http://www.sheelbedi.com/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://example.com/publication_types/</loc>
+      <loc>http://www.sheelbedi.com/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://example.com/</loc>
+      <loc>http://www.sheelbedi.com/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>https://example.com/tags/</loc>
+      <loc>http://www.sheelbedi.com/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
