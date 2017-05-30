@@ -26,7 +26,7 @@ Here are some of the things I've built and deployed so far:
 	A crowdsourced, task-sharing app with a built in 'karma' system.
 
 	Built with Mongo, Express, React, and Node.
-- [On Foot](onf00t.herokuapp.com:):: 
+- [On Foot](onf00t.herokuapp.com:): 
 	A geolocation app that shows you only the cheapest, highest rated restaurants within walking distance.
 
 	Built with HTML5, React, Express, and Node.
