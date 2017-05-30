@@ -16,7 +16,7 @@ weight = 20
 
 Skills:
 
-Fullstack Web Development - Experience with Fronted/Backend Frameworks, UI, Server, and Database technologies.
+Fullstack Web Development - I have experience with Fronted/Backend Frameworks, UI, Server, and Database technologies. I'm also versed in Test Driven Development, and Continuous Integration/Continous Development.
 
 Software Architecture - Skilled in gathering user requirements, and planning all aspects of a web application.
 
@@ -27,22 +27,15 @@ Technologies:
 - HTML/CSS/JQuery
 - Javascript
 - ES6/ES7
-- React
-- Node
-- Express
-- React
+- Node/Express
+- React/Redux
 - Angular
 - MonogoDB
-- Redux
+- SQL
 - MochaJS
 - Sockets.io
-
 - Docker
 - Amazon Web Services
 - Heroku
 
-- Test Driven Development
-- Deployment
-- Continuous Delivery/Continous Integration
 
-Other:

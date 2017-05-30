@@ -19,6 +19,7 @@ This is an example of using the *custom* widget to create your own homepage sect
 Here are some of the things I've built and deployed so far:
 
 - Pulser:
+	An augmented presentation Built with Knex/Postgres, Express, React/Redux, Node, and Sockets.io
 - Food Runner 2: 
 - On Foot: 
 - CS104: An intro to computer science

@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Find Me"
+title = "Where You Can Find Me"
 subtitle = ""
 widget = "custom"
 
