@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Where You Can Find Me"
+title = "Where to Find Me"
 subtitle = ""
 widget = "custom"
 
@@ -13,15 +13,8 @@ widget = "custom"
 weight = 40
 
 +++
+[I'm on Github](http://www.github.com/sdbedi)
 
-This is an example of using the *custom* widget to create your own homepage section.
+[And LinkedIn](http://www.linkedin.com/in/sheelbedi)
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+[I also have a blog](http://www.medium.com/@sheelbedi)

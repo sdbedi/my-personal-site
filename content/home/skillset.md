@@ -16,7 +16,7 @@ weight = 20
 
 Skills:
 
-Fullstack Web Development - I have experience with Fronted/Backend Frameworks, UI, Server, and Database technologies. I'm also versed in Test Driven Development, and Continuous Integration/Continous Development.
+Fullstack Web Development - I have experience with Fronted/Backend Frameworks, as well as UI, Server, and Database technologies. I'm also versed in Test Driven Development, and Continuous Integration/Continous Development.
 
 Software Architecture - Skilled in gathering user requirements, and planning all aspects of a web application.
 
