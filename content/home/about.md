@@ -39,4 +39,4 @@ In addition to this technical skillset, I know how to gather user requirements, 
 
 I've created several nifty applications; their links are on this site. I'm currently looking for an opportunity where I can build some cool stuff.
 
-Check out my blog: https://medium.com/@sheelbedi
+[I'm on Github](http://www.github.com/sdbedi), as well as [LinkedIn](http://www.linkedin.com/in/sheelbedi). [I also have a blog](http://www.medium.com/@sheelbedi)

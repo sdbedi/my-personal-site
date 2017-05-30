@@ -145,19 +145,14 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Skillsets"
+  name = "My Skillsets"
   url = "#skillset"
   weight = 2
 
 [[menu.main]]
-  name = "Selected Applications"
+  name = "Some of My Applications"
   url = "#applications"
   weight = 3
-
-[[menu.main]]
-  name = "How to Find Me"
-  url = "#findme"
-  weight = 4
 
 # Taxonomies.
 [taxonomies]
