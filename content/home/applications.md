@@ -16,7 +16,7 @@ weight = 30
 
 Here are some of the things I've built and deployed so far:
 
-- [Pulser](pulser-beta.herokuapp.com):
+- [Pulser](pulser-beta.herokuapp.com:):
 	Traditionally, presentations have been entirely one way. This leaves audiences bored and confused, while the person giving the presentation has no idea what effect she's having. 
 
 	Pulser is different. By providing for two way communication and real time audience feedback, Pulser allows a presenter to invite audience participation. This facilitates communications, and allows a presenter to understand her audience.
