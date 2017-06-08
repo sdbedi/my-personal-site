@@ -33,7 +33,7 @@ Here are some of the things I've built and deployed so far:
 
 NOTE: The above applications are deployed on Heroku's free tier. They may take a minute or two to spin up. 
 
-Other project:
+Other projects:
 
 - GuardMe:
 	A prototype payout platform to enable disaster relief organizations to make rapid payments in emergencies. Third place winner at Hyperwallet's 2017 SXSW Hackathon.
